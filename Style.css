@@ -20,7 +20,7 @@ html , body {
 }
 
 body {
-    background-image: url(https://media.istockphoto.com/photos/modern-office-desk-background-top-view-with-copy-space-picture-id1133856693?b=1&k=6&m=1133856693&s=170667a&w=0&h=uUBumFW-Q7tVk-Tg2aQNGp4AQaaV3yMB4Tn_2-KdLaM=);
+    background-image: url("https://media.istockphoto.com/photos/modern-office-desk-background-top-view-with-copy-space-picture-id1133856693?b=1&k=6&m=1133856693&s=170667a&w=0&h=uUBumFW-Q7tVk-Tg2aQNGp4AQaaV3yMB4Tn_2-KdLaM=");
     background-repeat: no-repeat;
     background-size:cover;
 }
