@@ -56,14 +56,5 @@ function currentTime() {
     clockelement.innerText = `${hour} : ${minute} : ${seconds} ${session}`;
 
 }
-// Appending 0 Before Clock Element 
-function updateTime(k) {
-    if(k < 10) {
-        return "0" + k;
-    } else {
-        return k;
-    }
-}
-
 
 currentTime();
